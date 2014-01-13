@@ -1,6 +1,7 @@
 --
 layout: main
-title: "The Core Commitments"
+title: The Core Commitments
+published: true
 --
 1. I commit to engage when present.
     * (a) To know and disclose
