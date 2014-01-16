@@ -1,3 +1,6 @@
+---
+title: The Core Commitments
+---
 1. I commit to engage when present.
     * (a) To know and disclose
         * what I want,
