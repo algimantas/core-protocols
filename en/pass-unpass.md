@@ -1,7 +1,7 @@
---
+---
 title: "Pass (Unpass)"
 layout: main
---
+---
 # Pass (Unpass)
 
 The Pass protocol is how you decline to participate in something. Use it anytime you don’t want to participate in an activity.
