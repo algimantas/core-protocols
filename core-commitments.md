@@ -1,5 +1,6 @@
 ---
 title: The Core Commitments
+layout: main
 ---
 1. I commit to engage when present.
     * (a) To know and disclose
