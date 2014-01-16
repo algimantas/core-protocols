@@ -8,8 +8,8 @@ The Pass protocol is how you decline to participate in something. Use it anytime
 
 ## Steps
 
-When you’ve decided not to participate, say “I pass.”
-Unpass any time you desire. Unpass as soon as you know you want to participate again by saying “I unpass.”
+1. When you’ve decided not to participate, say “I pass.”
+2. Unpass any time you desire. Unpass as soon as you know you want to participate again by saying “I unpass.”
 
 ## Commitments
 
