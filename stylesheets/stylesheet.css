@@ -105,6 +105,12 @@ header h2 {
   float: left;
 }
 
+#copyright {
+    width: 690px;
+    float: left;
+    font-size: 13px;
+}
+
 #main-content img {
   max-width: 100%;
 }
