@@ -1,6 +1,6 @@
 ---
 title: Branduolio įsipareigojimai
-layout: protocol
+layout: lt/protocol
 ---
 # Branduolio įsipareigojimai
 1. Aš pilnai įsitrauksiu visur, kur dalyvauju.
