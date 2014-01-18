@@ -1,6 +1,6 @@
 ---
 title: Pasavimas
-layout: protocol
+layout: lt/protocol
 ---
 # Pasavimas
 
