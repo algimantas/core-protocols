@@ -1,6 +1,6 @@
 ---
 title: Intention Check
-layout: protocol
+layout: en/protocol
 ---
 # Intention Check
 

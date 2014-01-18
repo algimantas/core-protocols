@@ -1,6 +1,6 @@
 ---
 title: Personal Alignment
-layout: protocol
+layout: en/protocol
 ---
 # Personal Alignment
 

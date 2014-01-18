@@ -1,6 +1,6 @@
 ---
 title: Protocol Check
-layout: protocol
+layout: en/protocol
 ---
 # Protocol Check
 

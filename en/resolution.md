@@ -1,6 +1,6 @@
 ---
 title: Resolution
-layout: protocol
+layout: en/protocol
 ---
 # Resolution
 

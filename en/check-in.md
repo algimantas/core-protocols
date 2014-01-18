@@ -1,8 +1,8 @@
 ---
-title: Check-in
-layout: protocol
+title: Check In
+layout: en/protocol
 ---
-# {{ page.title }}
+# Check In
 
 Use Check In to begin meetings or anytime an individual or group Check In would add more value to the current team interactions.
 

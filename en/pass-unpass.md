@@ -1,6 +1,6 @@
 ---
-title: "Pass (Unpass)"
-layout: protocol
+title: Pass (Unpass)
+layout: en/protocol
 ---
 # Pass (Unpass)
 

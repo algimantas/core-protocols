@@ -1,6 +1,6 @@
 ---
 title: Decider
-layout: protocol
+layout: en/protocol
 ---
 # Decider
 
