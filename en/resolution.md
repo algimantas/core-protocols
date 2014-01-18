@@ -4,7 +4,7 @@ layout: en/protocol
 ---
 # Resolution
 
-When a Decider vote yields a small minority of outliers, the proposer quickly leads the team, in a highly structured fashion, to deal with the outliers. The Resolution protocol promotes forward momentum by focusing on bringing outliers in at least cost.
+When a [Decider][decider] vote yields a small minority of outliers, the proposer quickly leads the team, in a highly structured fashion, to deal with the outliers. The Resolution protocol promotes forward momentum by focusing on bringing outliers in at least cost.
 
 ## Steps
 
@@ -17,3 +17,5 @@ When a Decider vote yields a small minority of outliers, the proposer quickly le
 * If the outlier’s changes are simple, a simple Eye Check is performed to determine if everyone is still in.
 * If the outlier’s changes are complex, the proposer must withdraw the current proposal and then submit a new proposal that incorporates the outlier’s changes.
 * If the outlier begins to say why he voted No or to explain anything other than what it will take to get him in, the proposer must interrupt the outlier with “What will it take to get you in?”
+
+[decider]: {{ site.baseurl }}en/decider

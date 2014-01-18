@@ -35,4 +35,7 @@ Investigate allows you to learn about a phenomenon that occurs in someone else. 
   - Questions that invite stories.
   - Questions that begin with “Why.”
 * Stick to your intention of gathering more information.
-* If you feel that you will explode if you can’t say what’s on your mind, you shouldn't speak at all. Consider checking your intention or Check Out.
+* If you feel that you will explode if you can’t say what’s on your mind, you shouldn't speak at all. Consider [checking your intention][intention-check] or [Check Out][check-out].
+
+[intention-check]: {{ site.baseurl }}en/intention-check
+[check-out]: {{ site.baseurl }}en/checkout

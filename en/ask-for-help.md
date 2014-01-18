@@ -32,4 +32,6 @@ The Ask For Help protocol allows you to efficiently make use of the skills and k
 * You cannot “over-ask” a given person for help unless he or she has asked you to respect a particular limit.
 * If you don’t understand the value of what is offered, or feel that it wouldn’t be useful, or believe yourself to have considered and rejected the idea offered previously, assume a curious stance instead of executing a knee-jerk “But . . .” rejection. (See the Investigate protocol.)
 * Asking in time of trouble means you waited too long to ask for help. Ask for help when you are doing well.
-* Simply connecting with someone, even if he or she knows nothing of the subject you need help on can help you find answers within yourself, especially if you ask that person to Investigate you.
+* Simply connecting with someone, even if he or she knows nothing of the subject you need help on can help you find answers within yourself, especially if you ask that person to [Investigate][investigate] you.
+
+[investigate]: {{ site.baseurl }}en/investigate

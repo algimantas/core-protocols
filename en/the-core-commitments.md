@@ -26,6 +26,8 @@ layout: protocol
 7. I will do now what must be done eventually and can effectively be done now.
 8. I will seek to move forward toward a particular goal, by biasing my behavior toward action.
 9. I will use the Core Protocols (or better) when applicable.
-    * (a) I will offer and accept timely and proper use of the Protocol Check protocol without prejudice.
+    * (a) I will offer and accept timely and proper use of the [Protocol Check][protocol-check] protocol without prejudice.
 10. I will neither harm—nor tolerate the harming of—anyone for his or her fidelity to these commitments.
 11. I will never do anything dumb on purpose.
+
+[protocol-check]: {{ site.baseurl }}en/protocol-check

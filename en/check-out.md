@@ -5,7 +5,7 @@ layout: en/protocol
 
 # Check Out
 
-Check Out requires that your physical presence always signifies your engagement. You must Check Out when you are aware that you cannot maintain the Core Commitments or whenever it would be better for you to be elsewhere.
+Check Out requires that your physical presence always signifies your engagement. You must Check Out when you are aware that you cannot maintain the [Core Commitments][commitments] or whenever it would be better for you to be elsewhere.
 
 ## Steps
 
@@ -16,7 +16,7 @@ Check Out requires that your physical presence always signifies your engagement.
 
 ## Commitments
 
-* Return as soon as you can and are able to keep the Core Commitments.
+* Return as soon as you can and are able to keep the [Core Commitments][commitments].
 * Return and Check In without unduly calling attention to your return.
 * Do not judge, shame, hassle, interrogate, or punish anyone who checks out.
 
@@ -25,3 +25,5 @@ Check Out requires that your physical presence always signifies your engagement.
 * When you Check Out do it as calmly and gracefully as possible so as to cause minimal disruption to others.
 * Check Out if your emotional state is hindering your success, if your receptivity to new information is too low, or if you do not know what you want.
 * Check Out is an admission that you are unable to contribute at the present time.
+
+[commitments]: {{ site.baseurl }}en/the-core-commitments

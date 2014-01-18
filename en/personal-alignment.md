@@ -16,7 +16,7 @@ The Personal Alignment protocol helps you penetrate deeply into your desires and
 6. Done. Now write down a personal alignment statement in the form “I want [virtue].” For example, “I want courage.”
 7. Signal/Response/Assignment. Create a signal to let others know when you are practicing your alignment, and provide a response they can give you to demonstrate support. For example, “When I say/do ‘X,’ will you say/do ‘Y’?” Optionally, turn it into an assignment by saying you will do X a certain number of times per day, where X equals an activity that requires you to practice living your alignment.
 8. Evidence. Write, in specific and measurable terms, the long-term evidence of practicing this alignment.
-9. Help. Ask each member of your group for help. They help by giving the response you would like when you give your signal that you are practicing your alignment.
+9. Help. [Ask][ask-for-help] each member of your group for help. They help by giving the response you would like when you give your signal that you are practicing your alignment.
 
 ## Commitments
 
@@ -35,3 +35,5 @@ The Personal Alignment protocol helps you penetrate deeply into your desires and
 * Ideally, identify both immediate and long-term evidence of your alignment. Write down results that start now (or very soon), as well as results you’ll see at least five or more years in the future.
 * As a default signal, tell your teammates or others who are close to you that you are working on your alignment when you are practicing it. If they don’t know the protocol, just tell them what virtue you are working on and ask for their help.
 * When members of a team are completing their personal alignments together (asking each other for help), the final step of the process is most powerful if done as a ceremony.
+
+[ask-for-help]: {{ site.baseurl }}en/ask-for-help

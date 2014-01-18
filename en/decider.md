@@ -14,8 +14,8 @@ Use Decider anytime you want to move a group immediately and unanimously towards
 5. Proposer counts the votes.
 6. Proposer withdraws the proposal if a combination of outliers (No votes) and Support-it votes is too great or if proposer expects not to successfully conclude Resolution (below). You can approximate “too great” by using the following heuristics:
     * approximately 50% (or greater) of votes are Support-it, OR
-    * the anticipated gain if the proposal passes is less than the likely cost of Resolution effort
-7. Proposer uses the Resolution protocol with each outlier to bring him in by asking, “What will it take to get you in?”
+    * the anticipated gain if the proposal passes is less than the likely cost of [Resolution][resolution] effort
+7. Proposer uses the [Resolution protocol][resolution] with each outlier to bring him in by asking, “What will it take to get you in?”
 8. Proposer declares the proposal carried if all outliers change their votes to Yes or Support-it.
 9. The team is now committed to the proposed result.
 
@@ -46,3 +46,5 @@ Use Decider anytime you want to move a group immediately and unanimously towards
 * Withdraw weak proposals. If a proposal receives less than seventy percent (approximately) Yes votes, it is a weak proposal and should be withdrawn by the proposer. This decision is, however, at the discretion of the proposer.
 * Think of yourself as a potential solo outlier every time you vote No.
 * Vote Absolute No only when you are convinced you have a significant contribution to make to the direction or leadership of the group, or when integrity absolutely requires it of you.
+
+[resolution]: {{ site.baseurl }}en/resolution
