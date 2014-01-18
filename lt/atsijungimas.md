@@ -4,7 +4,7 @@ layout: lt/protocol
 ---
 # Atsijungimas
 
-Atsijungimui reikia, kad tavo fizinis buvimas reikštų tavo įsitraukimą. Privalai atsijungti kai suvoki, kad negali laikytis Branduolio įsipareigojimų arba tau būtų geriau būti kitoje vietoje.
+Atsijungimui reikia, kad tavo fizinis buvimas reikštų tavo įsitraukimą. Privalai atsijungti kai suvoki, kad negali laikytis [Branduolio įsipareigojimų][commitments] arba tau būtų geriau būti kitoje vietoje.
 
 ## Žingsniai
 
@@ -15,7 +15,7 @@ Atsijungimui reikia, kad tavo fizinis buvimas reikštų tavo įsitraukimą. Priv
 
 ## Įsipareigojimai
 
-* Grįšiu iškart kai galėsiu ir sugebėsiu laikytis Branduolio įsipareigojimų.
+* Grįšiu iškart kai galėsiu ir sugebėsiu laikytis [Branduolio įsipareigojimų][commitments].
 * Grįžęs prisijungsiu neatkreipdamas nereikalingo dėmesio į savo sugrįžimą.
 * Neteisiu, negėdinsiu, neklausinėsiu ir nebausiu nė vieno, kuris atsijungia.
 
@@ -24,3 +24,5 @@ Atsijungimui reikia, kad tavo fizinis buvimas reikštų tavo įsitraukimą. Priv
 * Atsijungimą daryk kuo ramiau, kad kuo mažiau sutrukdytum aplinkinius.
 * Atsijunk, jeigu tavo emocinė būklė trukdo sėkmingai dalyvauti, jeigu sunkiai priimi naują informaciją arba jei nežinai ko nori.
 * Atsijungimas yra pripažinimas, kad šiuo metu negali prisidėti.
+
+[commitments]: {{ site.baseurl }}lt/branduolio-isipareigojimai

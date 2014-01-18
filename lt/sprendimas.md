@@ -15,8 +15,8 @@ Naudok tada kai nori staigiai priimti vienbalsį sprendimą ir grupę nukreipti 
 5. Siūlytojas suskaičiuoja balsus.
 6. Siūlytojas atšaukia pasiūlymą, jeigu “Ne” ir “Palaikau” skaičius per didelis. Per dideliu galima laikyti, jei
     * pusė ar daugiau žmonių balsavo “Ne” arba “Palaikau”
-    * jei siūlytojas tikisi, kad Išsprendimo kaina bus didesnė nei nauda gauta priėmus sprendimą.
-7. Kad gautų pritarimą, Siūlytojas naudoja Išsprendimo protokolą kiekvieno nepritariančio klausdamas “Ką reikėtų pakeisti, kad pritartum?”.
+    * jei siūlytojas tikisi, kad [Išsprendimo][resolution] kaina bus didesnė nei nauda gauta priėmus sprendimą.
+7. Kad gautų pritarimą, Siūlytojas naudoja [Išsprendimo protokolą][resolution] kiekvieno nepritariančio klausdamas “Ką reikėtų pakeisti, kad pritartum?”.
 8. Siūlytojas paskelbia, kad pasiūlymas priimtas, jeigu pavyko pakeisti nepritariančiuosius į “Taip” arba “Palaikau”.
 9. Komanda yra įsipareigojusi įgyvendinti pasiūlymą.
 
@@ -44,3 +44,5 @@ Naudok tada kai nori staigiai priimti vienbalsį sprendimą ir grupę nukreipti 
 * Atšauk silpnus pasiūlymus.
 * Kai balsuoji Ne, galvok, kad tu esi vienintelis taip balsuojantis.
 * Naudok Absoliutų ne tik tada, kai turi keletą kartų geresnį pasiūlymą arba kai privalai taip balsuoti dėl savo sąžinės.
+
+[resolution]: {{ site.baseurl }}lt/issprendimas

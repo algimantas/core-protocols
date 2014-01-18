@@ -15,10 +15,14 @@ Jei būtų naudinga, paklausk “Kokio atsako ar elgesio ir iš ko tu nori kaip 
 ## Įsipareigojimai
 
 * Suvoksiu savo intenciją prieš tikrindamas kito žmogaus intenciją.
-* Tyrinėsiu pakankamai, kad atskleisčiau  kito žmogaus ar jo veiksmų intenciją.
+* [Tyrinėsiu]({{ site.baseurl }}lt/tyrinejimas) pakankamai, kad atskleisčiau  kito žmogaus ar jo veiksmų intenciją.
 * Pasitikrinsiu ar esu pasiruošęs taikiai išspręsti galimą konfliktą prieš tikrindamas kito žmogaus intenciją. Jei neturėsiu taikios intencijos, Atsijungsiu.
-* Nesiginsiu kai kas nors klaus kokia mano intencija. Jei negalėsiu to padaryti, Atsijungsiu.
+* Nesiginsiu kai kas nors klaus kokia mano intencija. Jei negalėsiu to padaryti, [Atsijungsiu][checkout].
 
 ## Pastebėjimai
 
-* Jei kyla neišsprendžiamas konfliktas, Atsijunk ir Prašyk pagalbos.
+* Jei kyla neišsprendžiamas konfliktas, [Atsijunk][checkout] ir [Prašyk pagalbos][ask-for-help].
+
+
+[checkout]: {{ site.baseurl }}lt/atsijungimas
+[ask-for-help]: {{ site.baseurl }}lt/pagalbos-prasymas

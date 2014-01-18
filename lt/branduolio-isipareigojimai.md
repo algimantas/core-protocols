@@ -28,6 +28,8 @@ layout: lt/protocol
 7. Aš dabar darysiu tai ką visvien kažkada reikės padaryti ir tai efektyviai gali būti padaryta dabar.
 8. Aš stengsiuosi judėti specifinio tikslo link, pirmenybę teikdamas veiksmams.
 9. Aš naudosiu Branduolio protokolus (ar ką nors geresnio) kai tai tinka.
-    * Aš naudosiu ir priimsiu tinkamai naudojamą Protokolo patikrinimą be neigiamo nusistatymo.
+    * Aš naudosiu ir priimsiu tinkamai naudojamą [Protokolo patikrinimą][protocol-check] be neigiamo nusistatymo.
 10. Aš nežalosiu ir netoleruosiu kieno nors žalojimo vardan ištikimybės šiems įsipareigojimams.
 11. Aš niekada nedarysiu nieko kvailo sąmoningai.
+
+[protocol-check]: {{ site.baseurl }}lt/protokolo-patikrinimas

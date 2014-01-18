@@ -4,7 +4,7 @@ layout: lt/protocol
 ---
 # Išsprendimas
 
-Kai Sprendimo metu nedidelė dalis žmonių nesutinka su pasiūlymu, siūlytojas greitai ir naudodamas labai struktūrizuotą būdą susitvarko su nepalaikančiaisiais. Išsprendimo protokolas skatina judėjimą pirmyn fokusuojantis į nepalaikymo išsprendimą minimalia kaina.
+Kai [Sprendimo][decider] metu nedidelė dalis žmonių nesutinka su pasiūlymu, siūlytojas greitai ir naudodamas labai struktūrizuotą būdą susitvarko su nepalaikančiaisiais. Išsprendimo protokolas skatina judėjimą pirmyn fokusuojantis į nepalaikymo išsprendimą minimalia kaina.
 
 ## Žingsniai
 
@@ -17,3 +17,5 @@ Kai Sprendimo metu nedidelė dalis žmonių nesutinka su pasiūlymu, siūlytojas
 * Jeigu nepritariančiojo pakeitimai yra paprasti, atliekamas paprastas patikrinimas žvilgsniu, kad įsitikinti, jog visi vis dar pritaria pasiūlymui.
 * Jei nepritariančiojo pakeitimai yra sudėtingi, siūlytojas turi atšaukti esamą pasiūlymą ir tada teikti naują pasiūlymą įtraukiantį nesutinkančiojo pakeitimus.
 * Jei nesutinkantysis pradeda sakyti kodėl jis balsavo “Ne” arba aiškinti ką nors kita nei ko reikėtų, kad jis sutiktų, siūlytojas turi pertraukti jį klausimu “Ką reikėtų pakeisti, kad pritartum?”.
+
+[decider]: {{ site.baseurl }}lt/sprendimas

@@ -35,4 +35,6 @@ Elkis tarsi būtum pašalinis, bet susidomėjęs tyrinėtojas ir klausinėk kol 
   - klausimai, kurie skatina istorijas;
   - klausimai, kurie prasideda “kodėl”.
 * Laikykis savo intencijos sužinoti daugiau informacijos.
-* Jei jauti, kad pratrūksi, jei nepasakysi kas tavo galvoje, turėtum nešnekėti visai. Pagalvok apie savo intenciją arba Atsijungimą.
+* Jei jauti, kad pratrūksi, jei nepasakysi kas tavo galvoje, turėtum nešnekėti visai. Pagalvok apie savo intenciją arba [Atsijungimą][checkout].
+
+[checkout]: {{ site.baseurl }}lt/atsijungimas

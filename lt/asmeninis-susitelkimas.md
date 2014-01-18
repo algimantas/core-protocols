@@ -16,7 +16,7 @@ Asmeninio susitelkimo protokolas padeda giliai įsiskverbti į savo norus ir ras
 6. Padaryta. Užrašyk asmeninio susitelkimo teiginį forma “Aš noriu [dorybė]”. Pavyzdžiui, “Aš noriu drąsos.”
 7. Signalas/atsakas/užduotis. Sukurk signalą, kuriuo praneši kitiems, kad praktikuoji savo dorybę ir pateik atsaką, kuriuo jie gali parodyti palaikymą. Pavyzdžiui, “Kai aš pasakysiu/padarysiu X, ar tu pasakysi/padarysi Y?”. Papildomai gali tai paversti užduotimi nurodydamas kiek kartų per dieną padarysi X, kur X yra veikla, kurios reikia, kad praktikuotum gyvenimą pagal savo susitelkimą.
 8. Įrodymas. Užrašyk konkrečius ir išmatuojamus ilgalaikius įrodymus, kurie bus šio susitelkimo praktikavimo rezultatas.
-9. Pagalba. Kiekvieno komandos nario paprašyk pagalbos. Jie padės pateikdami tavo pasiūlytą atsakymą į tavo pateiktą signalą, kad praktikuoji susitelkimą.
+9. Pagalba. Kiekvieno komandos nario [paprašyk pagalbos][ask-for-help]. Jie padės pateikdami tavo pasiūlytą atsakymą į tavo pateiktą signalą, kad praktikuoji susitelkimą.
 
 ## Įsipareigojimai
 
@@ -35,3 +35,5 @@ Asmeninio susitelkimo protokolas padeda giliai įsiskverbti į savo norus ir ras
 * Idealiu atveju, pateik trumpalaikius ir ilgalaikius savo susitelkimo įrodymus. Užrašyk rezultatus, kurie prasideda jau dabar (arba labai greitai) ir rezultatus, kuriuos pamatysi mažiausiai po penkių ar daugiau metų ateityje.
 * Kaip standartinį signalą, savo komandos nariams ir kitiems artimiems žmonėms pasakyk, kad dirbi ties susitelkimu kai praktikuoji jį. Jei jie nežino protokolo, tiesiog pasakyk jiems ties kokia dorybe dirbi ir paprašyk jų pagalbos.
 * Kai komandos nariai kartu užbaigia susitelkimą (paprašydami vienas kito pagalbos),  paskutinis žingnis galingiausias kai atliekamas kaip ceremonija.
+
+[ask-for-help]: {{ site.baseurl }}lt/pagalbos-prasymas

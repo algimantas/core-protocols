@@ -32,4 +32,6 @@ Pagalbos prašymo protokolas leidžia efektyviai pasinaudoti kitų įgūdžiais 
 * Neįmanoma per dažnai prašyti kurio nors žmogaus pagalbos, nebent jis pats paprašė laikytis tam tikros ribos.
 * Jei nesupranti pasiūlytos pagalbos vertės ar jauti, kad pasiūlymas tau nenaudingas, arba pats tai jau apgalvojai ir atmetei, priimk susidomėjimo pozą ir naudok Tyrinėjimo protokolą, o ne instinktyvią “bet …” reakciją.
 * Jeigu prašai pagalbos bėdos metu, reiškia, kad prašai pagalbos per vėlai. Prašyk pagalbos kai viskas einasi gerai.
-* Paprasčiausias pabendravimas su kažkuo, net jei ji ar jis neišmano nieko apie tavo pagalbos prašymą gali padėti rasti atsakymą savyje, ypač jei paprašysi kito žmogaus tave patyrinėti.
+* Paprasčiausias pabendravimas su kažkuo, net jei ji ar jis neišmano nieko apie tavo pagalbos prašymą gali padėti rasti atsakymą savyje, ypač jei paprašysi kito žmogaus tave [patyrinėti][investigate].
+
+[investigate]: {{ site.baseurl }}lt/tyrinejimas

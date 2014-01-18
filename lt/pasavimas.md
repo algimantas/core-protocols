@@ -21,6 +21,8 @@ Pasavimo protokolas nurodo kaip atsisakyti kur nors dalyvauti. Naudok bet kuriuo
 
 ## Pastebėjimai
 
-* Jeigu didžiąją dalį laiko pasuosi, greičiausiai tai nederės su Branduolio įsipareigojimais.
-* Gali pasuoti bet kokią veiklą. Jeigu naudoji Branduolio įsipareigojimus, negali pasuoti Sprendimo protokolo balsavimo ir turi pasakyti “Prisijungiu” per Prisijungimą.
+* Jeigu didžiąją dalį laiko pasuosi, greičiausiai tai nederės su [Branduolio įsipareigojimais][commitments].
+* Gali pasuoti bet kokią veiklą. Jeigu naudoji Branduolio įsipareigojimus, negali pasuoti [Sprendimo protokolo][commitments] balsavimo ir turi pasakyti “Prisijungiu” per [Prisijungimą]({{ site.baseurl }}lt/prisijungimas).
 * Gali pasuoti netgi jeigu jau pradėjai dalyvauti.
+
+[commitments]: {{ site.baseurl }}lt/branduolio-isipareigojimai
