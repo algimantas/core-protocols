@@ -10,7 +10,7 @@ layout: lt/protocol
         - ką galvoju;
         - ką jaučiu.
     * b) Visada sieksiu efektyvios pagalbos.
-    * c) Atsisakau siųsti ir priimti nederančius tarpusavyje emocinius signalus.
+    * c) Atsisakau siųsti ir priimti nerišlius emocinius signalus.
     * d) Kai aš žinosiu arba išgirsiu geresnę idėją nei šiuo metu vyraujanti, aš nedelsiant
         - pasiūlysiu ją priimti arba atmesti ir/arba
         - sieksiu konkrečiai ją pagerinti.
