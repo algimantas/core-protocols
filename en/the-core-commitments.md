@@ -1,6 +1,6 @@
 ---
 title: The Core Commitments
-layout: protocol
+layout: en/protocol
 ---
 # The Core Commitments
 
