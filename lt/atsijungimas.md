@@ -15,9 +15,9 @@ Atsijungimui reikia, kad tavo fizinis buvimas reikštų tavo įsitraukimą. Priv
 
 ## Įsipareigojimai
 
-* Grįšiu iškart kai galėsiu ir sugebėsiu laikytis [Branduolio įsipareigojimų][commitments].
-* Grįžęs prisijungsiu neatkreipdamas nereikalingo dėmesio į savo sugrįžimą.
-* Neteisiu, negėdinsiu, neklausinėsiu ir nebausiu nė vieno, kuris atsijungia.
+* Grįžk iškart kai galėsi ir sugebėsi laikytis [Branduolio įsipareigojimų][commitments].
+* Grįžęs prisijunk neatkreipdamas nereikalingo dėmesio į savo sugrįžimą.
+* Neteisk, negėdink, neklausinėk ir nebausk nė vieno, kuris atsijungia.
 
 ## Pastebėjimai
 

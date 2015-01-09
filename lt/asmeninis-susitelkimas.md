@@ -20,12 +20,12 @@ Asmeninio susitelkimo protokolas padeda giliai įsiskverbti į savo norus ir ras
 
 ## Įsipareigojimai
 
-* Identifikuosiu tokią dorybę, kurios rezultatas bus mano pasikeitimas ir nereikalaus jokio pasikeitimo iš jokio kito žmogaus.
-* Identifikuosiu blokus ir norus, kurie yra specifiniai ir asmeniški.
-* Identifikuosiu blokus, kuriuos išsprendus, radikaliai padidėtų mano efektyvumas gyvenime, darbe ir linksminantis.
+* Identifikuok tokią dorybę, kurios rezultatas bus tavo pasikeitimas ir nereikalaus jokio kito žmogaus pasikeitimo.
+* Identifikuok blokus ir norus, kurie yra specifiniai ir asmeniški.
+* Identifikuok blokus, kuriuos išsprendus, radikaliai padidėtų tavo efektyvumas gyvenime, darbe ir linksminantis.
 * Pasirink vertybę kuri tinka tau ir rekomenduotina vieno/dviejų žodžių ilgio (pvz. integralumas, aistra, rūpinimasis savimi, taika).
-* Paprašysiu pagalbos iš kitų, kurie mane pažįsta ir/arba žino mano susitelkimą.
-* Įvardinsiu įrodymus, kuriuos gali išmatuoti objektyvi trečioji šalis.
+* [Paprašyk pagalbos][ask-for-help] iš kitų, kurie tave pažįsta ir/arba žino tavo susitelkimą.
+* Įvardink įrodymus, kuriuos gali išmatuoti objektyvi trečioji šalis.
 
 ## Pastebėjimai
 

@@ -12,12 +12,12 @@ Elkis tarsi būtum pašalinis, bet susidomėjęs tyrinėtojas ir klausinėk kol 
 
 ## Įsipareigojimai
 
-* Klausiu gerai suformuluotus klausimus.
-* Klausiu tik tokius klausimus, kurie padidins mano supratimą.
-* Klausinėsiu tik tada, jei klausiamasis bus įsitraukęs ir atrodys pasiruošęs toliau atsakinėti.
-* Susilaikysiu nuo savo nuomonės išsakymo.
-* Neklausiu sufleruojančių klausimų kai manysiu, kad žinau kaip ji ar jis atsakys.
-* Jei negalėsiu išlikti pašaliniu susidomėjusiu tyrinėtoju neturinčiu savo motyvų, nustosiu naudoti protokolą kol galėsiu grįžti ir laikytis įsipareigojimų.
+* Klausk gerai suformuluotus klausimus.
+* Klausk tik tokius klausimus, kurie padidins tavo supratimą.
+* Klausinėk tik tada, jei klausiamasis yra įsitraukęs ir atrodo pasiruošęs toliau atsakinėti.
+* Susilaikyk nuo savo nuomonės išsakymo.
+* Neklausk sufleruojančių klausimų, net jei manai, kad žinai kaip ji ar jis atsakys.
+* Jei negali išlikti pašaliniu susidomėjusiu tyrinėtoju neturinčiu savo motyvų, nustok naudoti protokolą kol galėsi grįžti ir laikytis įsipareigojimų.
 
 ## Pastebėjimai
 

@@ -22,19 +22,19 @@ Naudok tada kai nori staigiai priimti vienbalsį sprendimą ir grupę nukreipti 
 
 ## Įsipareigojimai
 
-* Dalyvausiu kol bus priimtas sprendimas. Suvoksiu kaip mano elgesys padeda grupei judėti pirmyn arba stabdo ją.
-* Skirsiu pasiūlymui visą dėmesį. Tai svarbiau už visą kitą veiklą.
-* Kalbėsiu tik kai būsiu siūlytojas arba į mane kreipėsi siūlytojas.
-* Balsavimo metu neskelbsiu priežasčių dėl ko balsavau vienaip ar kitaip.
-* Iškart paskelbsiu jei esu Absoliutus ne. Tuo atveju būsiu pasiruošęs pasiūlyti geresnę idėją.
-* Būsiu asmeniškai atsakingas už nutartų rezultatų pasiekimą, net jei nubalsuota man nedalyvaujant.
-* Sužinosiu apie sprendimus priimtus man nedalyvaujant.
-* Nesiginčysiu su Absoliučiu ne. Visada paklausiu, kokią jis siūlo geresnę idėją.
-* Aktyviai palaikysiu priimtus sprendimus.
-* Reikalausiu, kad būtų vadovaujamasi protokolu, nesvarbu kiek dažnai tai teks daryti.
-* Nepasuosiu sprendimo metu.
-* Atkakliai dirbsiu, kad pasistūmėtumėte pirmyn. Teiksiu pirmenybę veiksmui.
-* Balsuosiu savarankiškai nenusižiūrėdamas kaip balsuoja kiti.
+* Dalyvauk kol bus priimtas sprendimas. Suvok kaip tavo elgesys padeda grupei judėti pirmyn arba stabdo ją.
+* Skirk pasiūlymui visą dėmesį. Tai svarbiau už visą kitą veiklą.
+* Kalbėk tik kai būsi siūlytojas arba į tave kreipėsi siūlytojas.
+* Balsavimo metu neskelbk priežasčių dėl ko balsavai vienaip ar kitaip.
+* Iškart paskelbk jei esu Absoliutus ne. Tuo atveju būk pasiruošęs pasiūlyti geresnę idėją.
+* Būk asmeniškai atsakingas už nutartų rezultatų pasiekimą, net jei nubalsuota tau nedalyvaujant.
+* Sužinok apie sprendimus priimtus tau nedalyvaujant.
+* Nesiginčyk su Absoliučiu ne. Visada paklausk, kokią jis siūlo geresnę idėją.
+* Aktyviai palaikyk priimtus sprendimus.
+* Reikalauk, kad būtų vadovaujamasi protokolu, nesvarbu kiek dažnai tai teks daryti.
+* Nepasuok sprendimo metu.
+* Atkakliai dirbk, kad pasistūmėtumėte pirmyn. Pirmenybę teik veiksmams.
+* Balsuok savarankiškai nenusižiūrėdamas kaip balsuoja kiti.
 
 ## Pastebėjimai
 

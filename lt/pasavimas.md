@@ -9,20 +9,20 @@ Pasavimo protokolas nurodo kaip atsisakyti kur nors dalyvauti. Naudok bet kuriuo
 ## Žingsniai
 
 1. Kai nusprendei nedalyvauti, sakyk “[Aš] pasuoju”.
-2. Pasuok bet kuriuo metu kai tik nori. Prisijunk prie veiklos iškart kai supranti, kad nori dalyvauti sakydamas “Nebepasuoju”.
+2. Nustok pasuoti ir prisijunk prie veiklos iškart kai supranti, kad nori dalyvauti sakydamas “Nebepasuoju”.
 
 ## Įsipareigojimai
 
-* Neišsakysiu pasavimo priežasčių.
-* Pasuosiu iškart kai tik suprasiu, kad ketinu pasuoti.
-* Gerbsiu kitų teisę pasuoti be pasiaiškinimų.
-* Palaikysiu pasuojančiuosius neapkalbinėdamas jų ar jų pasavimo.
-* Neteisiu, negėdinsiu, neklausinėsiu ir nebausiu nė vieno, kuris pasuoja.
+* Neišsakyk pasavimo priežasčių.
+* Pasuok iškart kai tik supranti, kad ketini pasuoti.
+* Gerbk kitų teisę pasuoti be pasiaiškinimų.
+* Palaikyk pasuojančiuosius neapkalbinėdamas jų ar jų pasavimo.
+* Neteisk, negėdink, neklausinėk ir nebausk nė vieno, kuris pasuoja.
 
 ## Pastebėjimai
 
 * Jeigu didžiąją dalį laiko pasuosi, greičiausiai tai nederės su [Branduolio įsipareigojimais][commitments].
 * Gali pasuoti bet kokią veiklą. Jeigu naudoji Branduolio įsipareigojimus, negali pasuoti [Sprendimo protokolo][commitments] balsavimo ir turi pasakyti “Prisijungiu” per [Prisijungimą]({{ site.baseurl }}lt/prisijungimas).
-* Gali pasuoti netgi jeigu jau pradėjai dalyvauti.
+* Gali pasuoti netgi jeigu jau pradėjai kažkur dalyvauti.
 
 [commitments]: {{ site.baseurl }}lt/branduolio-isipareigojimai

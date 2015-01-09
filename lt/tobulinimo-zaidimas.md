@@ -15,12 +15,12 @@ Tobulinimo žaidimo protokolas padės surinkti geriausias idėjas. Naudok kai no
 
 ## Įsipareigojimai
 
-* Priimsiu įvertinimą ir pasiūlymus neargumentuodamas.
-* Išsakysiu vien pozityvius komentarus: kas man patinka ir ko reikia 10-ukui.
+* Priimk įvertinimą ir pasiūlymus neargumentuodamas.
+* Išsakyk vien pozityvius komentarus: kas tau patinka ir ko reikia 10-ukui.
 * Susilaikysiu nuo nepatinkančių ar negatyvių dalykų minėjimo.
-* Gailėsiu taškų tik tada kai turėsiu pasiūlymų.
-* Vertinimo balas atitiks tai, kiek galiu pagerinti, o ne kiek patinka.
-* Jei negalėsiu pasakyti kas patiko ar konkrečiai įvardinti kaip pagerinti objektą, skirsiu 10.
+* Gailėk taškų tik tada kai turi pasiūlymų.
+* Vertinimo balas atitiks tai, kiek gali pagerinti, o ne kiek patinka.
+* Jei negalėsi pasakyti kas patiko ar konkrečiai įvardinti kaip pagerinti objektą, skirk 10.
 
 ## Pastebėjimai
 

@@ -14,16 +14,16 @@ Pagalbos prašymo protokolas leidžia efektyviai pasinaudoti kitų įgūdžiais 
 
 ## Įsipareigojimai
 
-* Pagalbos prašymą visada pradsiu "Ar [tu].."
-* Aiškiai žinosiu ko noriu iš prašomojo. Jei aiškiai nežinai kokios pagalbos nori, pasakyk tai "Aš nesu tikras kokios pagalbos man reikia. Ar padėsi man?"
-* Įsivaizduosiu, kad visi yra pasiruošę padėti ir tikėsiu, kad kiekvienas prisiims atsakomybę sakydamas "Ne".
-* Kiekvieną kartą kai nenorėsiu padėti atsakysiu "Ne".
-* Atsakymą “Ne” priimsiu be emocinės dramos ir nieko neklausiu.
-* Priimsiu siūlomą pagalbą.
-* Pasiūsysiu geriausią savo manymu pagalbos būdą, net jei prašantysis tikisi kažko kito.
-* Atidėsiu pagalbos prašymą, jei negalėsiu pilnai įsitraukti.
-* Klausiu paaiškinimo jei nebūsiu tikras dėl pagalbos specifikos.
-* Neatsiprašinėsiu už tai, kad prašau pagalbos.
+* Pagalbos prašymą visada pradėki "Ar [tu].."
+* Aiškiai žinok ko nori iš prašomojo. Jei aiškiai nežinai kokios pagalbos nori, pasakyk "Aš nesu tikras kokios pagalbos man reikia. Ar padėsi man?"
+* Įsivaizduok, kad visi yra pasiruošę padėti ir tikėk, kad kiekvienas prisiims atsakomybę sakydamas "Ne".
+* Kiekvieną kartą kai nenorėsi padėti pasakyk "Ne".
+* Atsakymą “Ne” priimk be emocinės dramos ir nieko neklausdamas.
+* Priimk siūlomą pagalbą.
+* Pasiūlyk geriausią savo manymu pagalbos būdą, net jei prašantysis tikisi kažko kito.
+* Atidėk pagalbos prašymą, jei negali pilnai įsitraukti.
+* Jei nesi tikras dėl pagalbos specifikos, klausk patikslinimo.
+* Neatsiprašinėk už tai, kad prašai pagalbos.
 
 ## Pastebėjimai
 

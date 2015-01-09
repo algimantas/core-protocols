@@ -8,17 +8,18 @@ Naudok prisijungimo protokolą pradėti susirinkimams ir bet kuriuo metu kai tav
 
 ## Žingsniai
 
-1. Kalbėtojas sako “[Aš] jaučiu [vieną ar daugiau DŽIAUGSMĄ, PYKTĮ, LIŪDESĮ, BAIMĘ].” 2. Kalbėtojas gali pateikti trumpą paaiškinimą. Jeigu jis prisijungia ne pirmas, gali sakyti “Pasuoju”.
+1. Kalbėtojas sako “[Aš] jaučiu [vieną ar daugiau DŽIAUGSMĄ, PYKTĮ, LIŪDESĮ, BAIMĘ].”
+2. Kalbėtojas gali pateikti trumpą paaiškinimą. Jeigu jis prisijungia ne pirmas, gali sakyti “Pasuoju”.
 3. Kalbėtojas sako “Prisijungiu”. Tai reiškia, kad nuo šios akimirkos kalbėtojas ketina elgtis pagal Branduolio įsipareigojimus.
 4. Klausytojai atsako “Ačiū.”
 
 ## Įsipareigojimai
 
-* Išsakysiu jausmus be kiekybinių žodžių (labai, truputį, …).
-* Išsakysiu tik kaip jausmai siejasi su manimi.
-* Kito žmogaus prisijungimo metu tylėsiu.
-* Nekomentuosiu kito žmogaus Prisijungimo nei prie jo, nei už jo akių.
-* Neatskleisiu to, ką kitas išsakė per Prisijungimą, jei negausiu iš jo leidimo.
+* Išsakyk jausmus be kiekybinių žodžių (labai, truputį, …).
+* Išsakyk tik kaip jausmai siejasi su tavimi.
+* Kito žmogaus prisijungimo metu tylėti.
+* Nekomentuok kito žmogaus Prisijungimo nei prie jo, nei už jo akių.
+* Neatskleisk to, ką kitas išsakė per Prisijungimą, jei negausi iš jo leidimo.
 
 ## Pastebėjimai
 
